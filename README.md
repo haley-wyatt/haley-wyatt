@@ -1,6 +1,1 @@
-body {background-color: powderblue;} h1 {color: blue;} p {color: red;}
-
-This is a heading
-=================
-
-This is a paragraph.
+<img src="https://github.com/haley-wyatt/haley-wyatt/blob/main/nshe_seal_transparent_bg.png" width="256" />
