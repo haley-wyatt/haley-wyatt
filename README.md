@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Welcome</title>
-</head>
-<body style ="background-color:Tomato;">
-<p>I’m currently learning c++</p>
-</body>
-</html>
+body {background-color: powderblue;} h1 {color: blue;} p {color: red;}
+
+This is a heading
+=================
+
+This is a paragraph.
