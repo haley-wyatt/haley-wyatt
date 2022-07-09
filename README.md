@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Welcome</title>
 </head>
-<body style ="background-color:Tomato;>
-<h3>Hi there 👋</h3>
-***
+<body style ="background-color:Tomato;">
 <p>I’m currently learning c++</p>
 </body>
 </html>
