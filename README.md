@@ -5,11 +5,10 @@ I'm Wyatt, a 2<sup>nd</sup> year CSE student at the [University of Nevada, Reno.
 - C/C++
 - JS
 - HTML & CSS
-- Markdown (thanks GitHub!)
 - Bash
 - Git
 
-| Classes from last term(Summer '22)  | Classes I'm taking now (Fall '22)      | Next-Up (Spring '23)                              |
+| Classes from last term (Summer '22) | Classes I'm taking now (Fall '22)      | Next-Up (Spring '23)                              |
 | ----------------------------------- | -------------------------------------- | ------------------------------------------------- |
 | CS 202 - Computer Science 2         | CS 219 - Computer Organization         | CPE 301 - Embedded Systems Design                 |
 | CH 203 - Humanities 3               | CS 302 - Data Structures               | CS 330 - Design Patterns                          |
