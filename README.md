@@ -8,10 +8,10 @@ I'm Wyatt, a 2<sup>nd</sup> year CSE student at the [University of Nevada, Reno.
 - Bash
 - Git
 
-| Classes from last term (Summer '22) | Classes I'm taking now (Fall '22)      | Next-Up (Spring '23)                              |
-| ----------------------------------- | -------------------------------------- | ------------------------------------------------- |
-| CS 202 - Computer Science 2         | CS 219 - Computer Organization         | CPE 301 - Embedded Systems Design                 |
-| CH 203 - Humanities 3               | CS 302 - Data Structures               | CS 330 - Design Patterns                          |
-| Math 182 - Calculus 2               | CS 328 - Fundamentals of Game Design   | CS 365 - Math of Computer Science                 |
-|                                     | PHYS 181 - Physics 2                   | CS 381 - Game Engine Architecture                 |
-|                                     | MATH 283 - Calculus 3                  | MATH 330 - Linear Algebra                         |
+| Classes from last term (Fall '22)      | Classes I'm taking now (Spring '23)   | Next-Up (Fall '23)                                       |
+| -------------------------------------- | ------------------------------------- | -------------------------------------------------------- |
+| CS 219 - Computer Organization         | CPE 301 - Embedded Systems Design     | STAT 352 - Probability and Statistics                    |
+| CS 302 - Data Structures               | SPA 201 - Communication Disorders     | CS 326 - Programming Languages, Concepts, Implementation |
+| CS 328 - Fundamentals of Game Design   | CS 365 - Math of Computer Science     | EE 220 - Circuits                                        |
+| PHYS 181 - Physics 2                   | CS 381 - Game Engine Architecture     | CS 477 - Analysis of Algorithms                          |
+| MATH 283 - Calculus 3                  | MATH 330 - Linear Algebra             | CS 330 - Design Patterns                                 |
