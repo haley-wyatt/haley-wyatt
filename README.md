@@ -2,9 +2,8 @@
 I'm Wyatt, a 2<sup>nd</sup> year CSE student at the [University of Nevada, Reno.](https://www.unr.edu/cse "UNR CSE") I also work in desktop support for the [Nevada System of Higher Education.](https://scs.nevada.edu/ "NSHE SCS")
 
 ### Thing's I'm learning at the moment:
-- C/C++
-- JS
-- HTML & CSS
+- C, C++, C#
+- HTML, CSS, JS
 - Bash
 - Git
 
