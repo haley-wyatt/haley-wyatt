@@ -12,5 +12,5 @@ I'm Wyatt, a 2<sup>nd</sup> year CSE student at the [University of Nevada, Reno.
 | CS 219 - Computer Architecture         | CPE 301 - Embedded Systems Design     | CS 326 - Programming Languages                           |
 | CS 302 - Data Structures               | SPA 201 - Communication Disorders     | CS 447 - Computer Systems Administration                 |
 | CS 328 - Fundamentals of Game Design   | CS 365 - Discrete Mathematics         | CS 477 - Analysis of Algorithms                          |
-| PHYS 181 - Physics 2                   | CS 381 - Game Engine Architecture     | CS 482 - Artificial Intelligence                         | 
-| MATH 283 - Calculus 3                  | MATH 330 - Linear Algebra             | EE 220 - Circuits                                        |
+| PHYS 181 - Physics 2                   | CS 381 - Game Engine Architecture     | CS 446 - Operating Systems                               | 
+| MATH 283 - Calculus 3                  | MATH 330 - Linear Algebra             | ENGR 301 - Engineering Communications                    |
