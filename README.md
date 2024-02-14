@@ -1,5 +1,5 @@
 # Hello, thanks for stopping by.
-I'm Wyatt, a 3<sup>rd</sup> year CSE student at the [University of Nevada, Reno.](https://www.unr.edu/cse "UNR CSE") I also work in desktop support for the [Nevada System of Higher Education.](https://scs.nevada.edu/ "NSHE SCS")
+I'm Wyatt, a 3<sup>rd</sup> year CSE student at the [University of Nevada, Reno.](https://www.unr.edu/cse "UNR CSE") I also work for the [Nevada System of Higher Education.](https://scs.nevada.edu/ "NSHE SCS")
 
 ### Thing's I'm learning at the moment:
 - C, C++, C#
