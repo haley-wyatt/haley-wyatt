@@ -1,7 +1,7 @@
 # Hello, thanks for stopping by.
 I'm Wyatt, a 4<sup>th</sup> year CSE student at the [University of Nevada, Reno.](https://www.unr.edu/cse "UNR CSE") I also work for the [Nevada System of Higher Education.](https://scs.nevada.edu/ "NSHE SCS")
 
-### Thing's I'm learning at the moment:
+### Things I'm learning at the moment:
 - C
 - C++
 - C#
