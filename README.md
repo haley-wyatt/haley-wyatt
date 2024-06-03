@@ -7,9 +7,6 @@ I'm Wyatt, a 3<sup>rd</sup> year CSE student at the [University of Nevada, Reno.
 - C#
 - ASP.NET Core
 - Blazor
-- HTML
-- CSS
-- JS
 - Bash
 - Git
 - Ansible
@@ -19,5 +16,4 @@ I'm Wyatt, a 3<sup>rd</sup> year CSE student at the [University of Nevada, Reno.
 | STAT 352 - Probability and Statistics                    | CS 425 - Software Engineering                | CS 426 - Senior Projects in Computer Science             |
 | EE 220 - Circuits                                        | CS 456 - Automata & Formal Languages         | CS 415 - Parallel Computing                              |
 | CPE 400 - Computer Communication Networks                | CS 453 - Database Management Systems         | CPE 401 - Computer Network Systems                       |
-| IS 475 - Database Design and Implementation              | MATH 373 - Theory of Positive Integers       |                                                          | 
-|                                                          |                                              |                                                          |
+| IS 475 - Database Design and Implementation              | MATH 373 - Theory of Positive Integers       |                                                          |
