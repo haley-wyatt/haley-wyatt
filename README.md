@@ -14,6 +14,6 @@ I'm Wyatt, a 4<sup>th</sup> year Computer Science and Engineering student at the
 | Spring '24                                               | Fall '24                                     | Spring '25 (Graduating Term)                             |
 | -------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------- |
 | STAT 352 - Probability and Statistics                    | CS 425 - Software Engineering                | CS 426 - Senior Projects in Computer Science             |
-| EE 220 - Circuits                                        | CS 456 - Automata & Formal Languages         | CS 415 - Parallel Computing                              |
-| CPE 400 - Computer Communication Networks                | CS 453 - Database Management Systems         | CPE 401 - Computer Network Systems                       |
+| EE 220 - Circuits                                        | CS 456 - Automata & Formal Languages         | CS 445 - Internet Security                               |
+| CPE 400 - Computer Communication Networks                | CS 453 - Database Management Systems         | CS 333 - Testing and DevOps                              |
 | IS 475 - Database Design and Implementation              | MATH 373 - Theory of Positive Integers       |                                                          |
